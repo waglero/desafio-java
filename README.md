@@ -37,7 +37,7 @@ Para iniciar a aplicação:
 
 Aplicação estará disponível em [http://localhost](http://localhost)
 
-## Docker composer
+## Docker compose
 
 Primeiro gerar o .jar:
 
